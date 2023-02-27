@@ -105,3 +105,5 @@ dependencies:
     - napari-skimage-regionprops
     - napari-spreadsheet
     - napari-clusters-plotter
+    - napari-nasa-samples
+    - napari-bio-sample-data
