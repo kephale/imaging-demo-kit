@@ -1,0 +1,107 @@
+name: imaging-demo-kit
+channels:
+- pytorch-nightly
+- conda-forge
+dependencies:  
+- python=3.10
+- "setuptools=59.5.0"
+- pip
+- numpy
+- scipy
+- matplotlib
+- pandas
+- pytables
+- jupyter
+- notebook
+- quantities
+- ipywidgets
+- vispy
+- meshio
+- zarr
+- xarray
+- hdf5
+- pyqt
+- omero-py
+- pyopencl
+- reikna
+- jupyterlab
+- pytorch
+- torchvision
+- diffusers
+- einops
+- fire
+- pillow
+- openjpeg
+- imagecodecs
+- "bokeh>=2.4.2,<3"
+- python-graphviz
+- fftw
+- napari-segment-blobs-and-things-with-membranes
+- s3fs
+- pooch
+- qtpy
+- superqt
+- yappi
+- ftfy
+- tqdm
+- imageio
+- pyarrow
+- squidpy
+- h5py
+- tifffile
+- nilearn
+- flake8
+- pytest
+- asv
+- pint
+- pytest-qt
+- pytest-cov
+- mypy
+- opencv
+- vedo
+- vtk
+- libnetcdf
+- vispy
+- napari
+- pip:
+    - idr-py
+    - omero-rois
+    - imageio-ffmpeg
+    - transformers
+    - gradio
+    - tensorstore
+    - fibsem_tools
+    - pyheif
+    - "ome-zarr>=0.3.0"
+    - importmagic
+    - epc
+    - ruff
+    - python-lsp-server[all]
+    - pylsp-mypy
+    - pyls-isort
+    - python-lsp-black
+    - pyls-memestra
+    - pylsp-rope
+    - python-lsp-ruff
+    - snakeviz
+    - qrcode
+    - napari-process-points-and-surfaces
+    - opencv-python-headless
+    - aicsimageio
+    - napari-boids
+    - jedi
+    - autopep8
+    - yapf
+    - black
+    - napari-omero
+    - napari-animation
+    - napari-turing
+    - napari-stable-diffusion
+    - napari-ome-zarr
+    - napari-qrcode
+    - napari-plot-profile
+    - btrack
+    - napari-arboretum
+    - napari-skimage-regionprops
+    - napari-spreadsheet
+    - napari-clusters-plotter
