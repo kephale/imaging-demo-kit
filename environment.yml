@@ -71,7 +71,7 @@ dependencies:
     - gradio
     - tensorstore
     - fibsem_tools
-    - pyheif
+#    - pyheif
     - "ome-zarr>=0.3.0"
     - importmagic
     - epc
@@ -107,3 +107,4 @@ dependencies:
     - napari-clusters-plotter
     - napari-nasa-samples
     - napari-bio-sample-data
+    - napari-accelerated-pixel-and-object-classification
